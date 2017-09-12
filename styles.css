@@ -41,7 +41,7 @@ header {
   text-align: right;
 }
 
-#advanced-selectors li{
+#advanced-selectors ol > li{
   padding: 10px;
   background-color: grey;
 }
