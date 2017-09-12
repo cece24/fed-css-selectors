@@ -15,3 +15,7 @@ h2 {
 header {
   border-bottom: 1px dotted purple;
 }
+
+.class-list {
+  list-style-type: square;
+}
