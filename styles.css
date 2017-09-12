@@ -19,3 +19,7 @@ header {
 .class-list {
   list-style-type: square;
 }
+
+.item {
+  border: 1px dotted gold;
+}
