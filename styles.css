@@ -23,3 +23,7 @@ header {
 .item {
   border: 1px dotted gold;
 }
+
+.even {
+  background-color: grey;
+}
